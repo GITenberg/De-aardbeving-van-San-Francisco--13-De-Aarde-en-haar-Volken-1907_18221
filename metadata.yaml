@@ -1,0 +1,31 @@
+_repo: De-aardbeving-van-San-Francisco--13-De-Aarde-en-haar-Volken-1907_18221
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vries, Hugo de
+    aliases:
+    - DeVries, Hugo
+    - De Vries, Hugo
+    birthdate: 1848
+    deathdate: 1935
+    gutenberg_agent_id: '2388'
+    url: http://www.gutenberg.org/2009/agents/2388
+    wikipedia: http://en.wikipedia.org/wiki/Hugo_de_Vries
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18221'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'San Francisco Earthquake and Fire, Calif., 1906'
+title: "De aardbeving van San Francisco\r\nDe Aarde en haar Volken, 1907"
+url: http://www.gutenberg.org/ebooks/18221
